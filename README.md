@@ -2,7 +2,7 @@
 
 Tomagotchi for Poke by Interaction
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/InteractionCo/mcp-server-template)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/MrFok/pokagotchi.git)
 
 ## Local Development
 
