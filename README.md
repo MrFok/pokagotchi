@@ -1,6 +1,6 @@
-# MCP Server Template
+# Pokagotchi MCP Server
 
-A minimal [FastMCP](https://github.com/jlowin/fastmcp) server template for Render deployment with streamable HTTP transport.
+Tomagotchi for Poke by Interaction
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/InteractionCo/mcp-server-template)
 
