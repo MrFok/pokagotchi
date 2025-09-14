@@ -9,7 +9,7 @@ mcp = FastMCP("Pokagotchi MCP Server")
 # Pet state file path
 PET_STATE_FILE = "pet_state.json"
 
-def handshake():
+def handshake() -> str:
     return "Hello, I'm the Pokagotchi MCP Server! We're getting a response!"
 
 def load_pet_state():
